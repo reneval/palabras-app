@@ -1,0 +1,16 @@
+.inputGroup{
+display: flex;
+  flex-flow: column nowrap;
+  height: 60vh;
+  padding: 0.5em;
+}
+
+.input {
+  flex: 50%;
+  background-color: blueviolet;
+  font-size: 4.5em;
+  color: antiquewhite;
+  line-height: 1.5em;
+  margin: 0.2em;
+}
+
